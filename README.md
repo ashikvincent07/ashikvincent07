@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashikvincent07
-- 👀 I’m interested in 
-- 🌱 I’m currently learning MERN stack
+- 👀 I’m interested in MERN stack projects
+- 🌱 I’m currently learning latest technologies
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 - 😄 Pronouns: 
