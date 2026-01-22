@@ -1,4 +1,4 @@
-# 👨‍💻 Ashik Vincent
+# 👨‍💻 Ashik Vincent V
 ### Python & Django Enthusiast
 
 I am a detail-oriented professional currently working in production while mastering modern web technologies. I specialize in building backend systems with **Python and Django** and am actively expanding my skills into the **React JS** to build high-performance, full-stack applications.
