@@ -7,7 +7,7 @@ I am a detail-oriented professional currently working in production while master
 
 ### 🚀 What I’m Working On
 - **🌱 Currently Learning:** Mastering the **Django fullstack**.
-- **🏗️ Projects:** Developing the [Country Data API](https://github.com/ashikvincent07/country_data_api) to practice RESTful architecture and database management.
+- **🏗️ Projects:** ToDo App (Django Rest Framework, HTML, CSS, JavaScript).
 - **🎯 Goal:** Transitioning into a Junior Django Full Stack Developer role within the next 3 months.
 
 ### 🛠 Tech Stack & Tools
