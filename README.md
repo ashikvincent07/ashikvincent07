@@ -17,7 +17,7 @@ I am a detail-oriented professional currently working in production while master
 - **Upcoming:** React JS
 
 ### 📈 GitHub Stats
-![Ashik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashikvincentv&show_icons=true&theme=radical)
+![Ashik's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ashikvincent07&show_icons=true&theme=radical)
 
 ---
 
