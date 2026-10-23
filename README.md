@@ -57,9 +57,9 @@ I'm a technology enthusiast focused on **RPA, Agentic Automation, and full-stack
 
 ### 📊 GitHub Stats
 
-![Ashik's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ashikvincent07&show_icons=true&theme=radical)
+![Ashik's GitHub Stats](https://github-stats-extended.vercel.app/api?username=ashikvincent07&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashikvincent07&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ashikvincent07&layout=compact&theme=radical)
 
 ### 📫 Connect With Me
 
