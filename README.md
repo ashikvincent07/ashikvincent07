@@ -5,7 +5,7 @@
 I'm a technology enthusiast focused on **RPA, Agentic Automation, and full-stack development**. I work with UiPath to build automation solutions, explore agentic workflows, and develop test automation processes. I'm also expanding my web development skills with Python, Django, and React to build scalable backend systems and modern web applications.
 
 ### 🚀 What I'm Working On
-[![My Skills](https://skillicons.dev/icons?i=py,django,js,react,nodejs,mongodb,html,css,git,github,vscode,azure&theme=dark&perline=6)](https://skillicons.dev)
+
 * 🤖 **RPA & Agentic Automation:** Building automation solutions using UiPath, AI-powered agents, and workflow orchestration.
 * 🧪 **Test Automation:** Exploring automated testing with UiPath Test Cloud.
 * 🔄 **Process Orchestration:** Working with UiPath Maestro to orchestrate business processes and agentic workflows.
@@ -14,6 +14,7 @@ I'm a technology enthusiast focused on **RPA, Agentic Automation, and full-stack
 * 🎯 **Career Goal:** Growing as an automation developer while building expertise in AI-driven automation and full-stack development.
 
 ### 🛠️ Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=py,django,js,react,nodejs,mongodb,html,css,git,github,vscode,azure&theme=dark&perline=6)](https://skillicons.dev)
 
 **Languages**
 
