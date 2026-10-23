@@ -1,6 +1,5 @@
 # 👨‍💻 Ashik Vincent V
 
-### RPA Developer | Agentic Automation | Full-Stack Development
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=RPA+%26+Agentic+Automation;UiPath+Maestro+%7C+Test+Automation;Full-Stack+Developer)](https://git.io/typing-svg)
 
 I'm a technology enthusiast focused on **RPA, Agentic Automation, and full-stack development**. I work with UiPath to build automation solutions, explore agentic workflows, and develop test automation processes. I'm also expanding my web development skills with Python, Django, and React to build scalable backend systems and modern web applications.
